@@ -1,3 +1,6 @@
+# NAME: JAGAN JP
+# REG.NO: 212224230099
+
 # EX-26-AREA-OF-RECTANGLE-USING- POINTER
 ## AIM
 To write a C Program to find area of rectangle using pointer.
@@ -11,9 +14,11 @@ To write a C Program to find area of rectangle using pointer.
 
 ## PROGRAM
 
+![Screenshot 2025-04-27 160243](https://github.com/user-attachments/assets/193c077c-58d1-48bd-a82a-81f219382b93)
+
 ## OUTPUT
 		       	
-
+![Screenshot 2025-04-27 160248](https://github.com/user-attachments/assets/c0d2528e-514e-4bd3-a651-ef119c3d35da)
 
 ## RESULT
 Thus the program to find area of rectangle using pointer has been executed successfully
@@ -35,18 +40,18 @@ To write a C Program to print 'WELCOME' using malloc() and free().
 
 ## PROGRAM
 
+![Screenshot 2025-04-27 160510](https://github.com/user-attachments/assets/9b3ab3cf-df5e-4b07-8643-b85cfa444455)
+
 ## OUTPUT
 
-
+![Screenshot 2025-04-27 160515](https://github.com/user-attachments/assets/385f5cbf-ad2a-48f5-b2bf-98e9ceddec0d)
 
 ## RESULT
 Thus the program to print 'WELCOME' using malloc() and free() has been executed successfully
  
-.
 
 
-
-# EX-28-STUDENT-INFORMATION-USING-STRUCTURE
+## EX-28-STUDENT-INFORMATION-USING-STRUCTURE
 
 ## AIM
 
@@ -61,16 +66,16 @@ To write a C Program to store the student information and display it using struc
 
 ## PROGRAM
 
+![Screenshot 2025-04-27 160904](https://github.com/user-attachments/assets/dba806bf-319f-432d-9d41-65314b731e75)
 
 ## OUTPUT
 
+![Screenshot 2025-04-27 161140](https://github.com/user-attachments/assets/cad0470f-ca89-4eea-96e6-a4b78bd71f6d)
 
 ## RESULT
-
 Thus the program to store the student information and display it using structure has been executed successfully
  
  
-
 
 # EX-29-EMPLOYEE-STRUCTURE-SALARY-CALCULATION
 
@@ -88,17 +93,16 @@ To write a C Program to read and store the data of 3 employees and calculate the
 
 ## PROGRAM
 
+![Screenshot 2025-04-27 162333](https://github.com/user-attachments/assets/a9e9893e-f0f7-40db-b780-5d9bc4a490b1)
 
  ## OUTPUT
 
+![Screenshot 2025-04-27 162343](https://github.com/user-attachments/assets/c0c5e6bb-da6a-40af-8b39-4adce70c0fea)
  
-
 ## RESULT
 
 Thus the C program to read and store the data of 3 employees and calculate their Gross Salary using the concept of structure
  
-
-
 
 
 # EX – 30 -STUDENTS MARK -TOTAL &AVERAGE USING STRUCURE
@@ -135,13 +139,12 @@ Step 8: End the program.
 
 ## PROGRAM
 
+![Screenshot 2025-04-27 163238](https://github.com/user-attachments/assets/b6fffc16-e003-4852-8017-e47ca5a670e8)
 
 ## OUTPUT
-
+![Screenshot 2025-04-27 163356](https://github.com/user-attachments/assets/53ab256b-78a5-4ce0-be82-329bd4c2cbc8)
  
-
 ## RESULT
-
 Thus the C program to calculate the total and average of student using structure has been executed successfully.
 	
 
